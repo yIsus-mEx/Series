@@ -1,0 +1,25 @@
+
+{
+"name": "Hawaii 5.0 Temp 2",
+"image": "https://pics.filmaffinity.com/hawaii_five_0-274364544-large.jpg",
+"url": "",
+"info": "bY yIsus_mEx",
+"author": "🅰️🅵1🅲🅸🅾️🅽🅰️🅳🅾️🆂",
+"telegram": "@YIsus_mEx",
+"stations":
+[
+
+{
+ "name": "CAPITULO 1",
+ "image": "https://pics.filmaffinity.com/hawaii_five_0-274364544-large.jpg",
+ "url": "",
+ "info": "",
+ "embed": "",
+ "isHost": "true",
+ "online": "true",
+ "userAgent":"PlusMediaPlayer/0.0.9",
+ "import": false
+ }
+
+]
+}
